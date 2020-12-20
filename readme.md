@@ -21,7 +21,7 @@ Webproxy Rutor.org
 
 В нижней части окна откроется черное окно консоли. Вставьте в нее следующую команду и нажмите ввод:
 
-    git clone https://github.com/YouROK/RutorGoogleEngineProxy
+    git clone https://github.com/kcahdep/RutorGoogleEngineProxy
 
 Начнется копирование готового проекта в рабочую область. При успешном завершении в конце будет напечатана строка:
 >Unpacking objects: 100% (/), done.
